@@ -16,6 +16,8 @@ li {
   float: right;
   list-style-type: none;
   color: #f3ffff;
+  padding: 0px;
+  margin: 0%;
 }
 
 li p {
